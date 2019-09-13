@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<IncidentWorker_RTShortCircuit_PartialMitigation>Tous les {0} W d'énergie des batteries connectées ont été déchargés, mais {1} ont été atténués par les fusibles.</IncidentWorker_RTShortCircuit_PartialMitigation>
+
+	<IncidentWorker_RTShortCircuit_FullMitigation>Tous les {0} W d'énergie des batteries connectées ont été déchargés, mais les fusibles ont évité tout dommage grave.</IncidentWorker_RTShortCircuit_FullMitigation>
+
+</LanguageData>

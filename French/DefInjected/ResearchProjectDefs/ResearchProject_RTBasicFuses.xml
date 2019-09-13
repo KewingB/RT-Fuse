@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<ResearchProject_RTBasicFuses.label>fusibles de base</ResearchProject_RTBasicFuses.label>
+	<ResearchProject_RTBasicFuses.description>Permet de construire des fusibles de base; peut être placé n'importe où sur un réseau électrique avec des batteries. Chacune suffit pour dissiper en toute sécurité jusqu'à 1800 W (trois batteries standard), mais elle nécessitera des réparations en cas de déclenchement.</ResearchProject_RTBasicFuses.description>
+
+</LanguageData>

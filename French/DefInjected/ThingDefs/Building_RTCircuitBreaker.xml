@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<Building_RTCircuitBreaker.label>disjoncteur</Building_RTCircuitBreaker.label>
+	<Building_RTCircuitBreaker.description>Un disjoncteur automatique. Traite jusqu'à 1800 W de décharge, s'éteint si déclenché.</Building_RTCircuitBreaker.description>
+
+</LanguageData>
